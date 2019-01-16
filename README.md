@@ -3,4 +3,4 @@ an interesting deeplearning project
 
 what is this?
 
-i dont know
+i don't know
